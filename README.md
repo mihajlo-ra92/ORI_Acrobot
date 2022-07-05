@@ -6,7 +6,7 @@ Done by: Mihajlo Maksimovic, RA92/2019
 Implemented:
 
 Open AI Gym Acrobot solution using a Deep Q-Network created with TensorFlow.
-In 100 episodes, the agent consistently reaches a score under -100. 
+In 100 episodes, the agent consistently reaches a score over -100. 
 
 
 ![Acrobot_100eps](https://user-images.githubusercontent.com/94182463/177322929-c3eb2289-60f8-457c-8caf-af6e1d0ed880.png)
