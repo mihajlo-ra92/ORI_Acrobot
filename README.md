@@ -3,7 +3,7 @@
 Project in basics of computer intelligence (ORI) in Faculty of Technical Sciences in Novi Sad, Serbia.
 Done by: Mihajlo Maksimovic, RA92/2019
 
-Te project is written in Python using TensorFlow for building a deep Q-network.
+The project is written in Python using TensorFlow for building a deep Q-network.
 
 Implemented:
 
